@@ -1,0 +1,152 @@
+Variable,Subtopic,Verbatim Signal / Theme,Sentiment,Polarity
+
+Environment & Output,Workspace Organization,"Clean, minimal desk setups make it easier to start and sustain work sessions",Positive,0.62
+Environment & Output,Workspace Organization,"Cluttered desks create friction and delay task initiation",Negative,-0.58
+Environment & Output,Workspace Organization,"Messy environments lead to scattered thinking and reduced clarity",Negative,-0.61
+Environment & Output,Workspace Organization,"Organized spaces improve mental clarity and reduce cognitive load",Positive,0.64
+Environment & Output,Workspace Organization,"Visual clutter acts as a constant low-level distraction",Negative,-0.55
+Environment & Output,Home Environment,"After work, energy drops significantly making it hard to continue productive tasks",Negative,-0.52
+Environment & Output,Home Environment,"Home environment often triggers relaxation mode rather than productivity",Negative,-0.49
+Environment & Output,Home Environment,"Changing location within the house improves ability to focus",Positive,0.41
+Environment & Output,Home Environment,"Separating work and rest spaces improves consistency",Positive,0.47
+Environment & Output,Home Environment,"Working from bed or couch reduces seriousness toward tasks",Negative,-0.44
+Environment & Output,Lighting & Air,"Natural light significantly improves mood and sustained attention",Positive,0.68
+Environment & Output,Lighting & Air,"Poor ventilation makes it harder to stay alert during long sessions",Negative,-0.57
+Environment & Output,Lighting & Air,"Artificial lighting feels draining over long periods",Negative,-0.52
+Environment & Output,Lighting & Air,"Fresh air improves cognitive sharpness and reduces fatigue",Positive,0.63
+Environment & Output,Lighting & Air,"Dim lighting reduces alertness and slows down thinking",Negative,-0.48
+Productivity & Focus,Sustained Deep Work,"It is extremely difficult to sustain uninterrupted focus in open environments",Negative,-0.72
+Productivity & Focus,Sustained Deep Work,"Quiet spaces enable longer deep work cycles",Positive,0.66
+Productivity & Focus,Sustained Deep Work,"Deep work feels almost impossible with constant interruptions",Negative,-0.74
+Productivity & Focus,Sustained Deep Work,"Isolation improves ability to think through complex problems",Positive,0.61
+Productivity & Focus,Sustained Deep Work,"Focus improves significantly when distractions are removed",Positive,0.64
+Productivity & Focus,Disruptions,"Coworkers interrupting for small requests breaks concentration repeatedly",Negative,-0.78
+Productivity & Focus,Disruptions,"Noise from conversations makes it hard to maintain thought continuity",Negative,-0.76
+Productivity & Focus,Disruptions,"Frequent interruptions create frustration and slow progress",Negative,-0.71
+Productivity & Focus,Disruptions,"Even minor interruptions require time to regain focus",Negative,-0.69
+Productivity & Focus,Disruptions,"Interruptions create a constant feeling of unfinished work",Negative,-0.66
+Productivity & Focus,Digital Distraction,"Phone notifications constantly pull attention away from tasks",Negative,-0.73
+Productivity & Focus,Digital Distraction,"Social media creates a loop of distraction that is hard to break",Negative,-0.75
+Productivity & Focus,Digital Distraction,"Even with blockers, the urge to check devices persists",Negative,-0.68
+Productivity & Focus,Digital Distraction,"Digital systems feel designed to capture attention",Negative,-0.72
+Productivity & Focus,Digital Distraction,"Reducing digital access improves focus dramatically",Positive,0.59
+Productivity & Focus,Consistency Across Day,"Focus drops significantly after mid-day",Negative,-0.64
+Productivity & Focus,Consistency Across Day,"Energy and clarity fluctuate across the day",Negative,-0.58
+Productivity & Focus,Consistency Across Day,"Morning hours tend to be most productive",Positive,0.52
+Productivity & Focus,Consistency Across Day,"Fatigue accumulates and reduces output quality later in the day",Negative,-0.67
+Productivity & Focus,Consistency Across Day,"Consistency is hard to maintain due to interruptions and fatigue",Negative,-0.65
+Emotional Friction,Cognitive Fatigue,"Even light work leads to mental exhaustion by afternoon",Negative,-0.72
+Emotional Friction,Cognitive Fatigue,"Mental fog appears despite low workload",Negative,-0.68
+Emotional Friction,Cognitive Fatigue,"Work feels draining even without heavy effort",Negative,-0.7
+Emotional Friction,Cognitive Fatigue,"Cognitive fatigue accumulates across small tasks",Negative,-0.69
+Emotional Friction,Cognitive Fatigue,"Mental exhaustion reduces motivation outside work",Negative,-0.73
+Emotional Friction,Context Switching,"Switching between tasks constantly drains mental energy",Negative,-0.74
+Emotional Friction,Context Switching,"Multiple tools and tabs create cognitive overload",Negative,-0.7
+Emotional Friction,Context Switching,"Fragmented work reduces sense of progress",Negative,-0.68
+Emotional Friction,Context Switching,"Frequent switching makes it hard to think deeply",Negative,-0.71
+Emotional Friction,Context Switching,"Task fragmentation reduces clarity and momentum",Negative,-0.66
+Emotional Friction,Effort Breakdown,"Starting tasks feels disproportionately difficult",Negative,-0.69
+Emotional Friction,Effort Breakdown,"Work feels overwhelming despite small scope",Negative,-0.67
+Emotional Friction,Effort Breakdown,"There is resistance to initiating cognitively demanding work",Negative,-0.65
+Emotional Friction,Effort Breakdown,"Tasks feel heavier than they objectively are",Negative,-0.63
+Emotional Friction,Effort Breakdown,"Procrastination increases due to mental overload",Negative,-0.7
+Levels & Quality of Output,Depth & Quality,"Work feels rushed and lacks depth",Negative,-0.71
+Levels & Quality of Output,Depth & Quality,"Output does not match intended quality",Negative,-0.69
+Levels & Quality of Output,Depth & Quality,"Shallow work dominates most of the day",Negative,-0.68
+Levels & Quality of Output,Depth & Quality,"Deep focus produces significantly better results",Positive,0.66
+Levels & Quality of Output,Depth & Quality,"High-quality output requires uninterrupted time",Positive,0.64
+Levels & Quality of Output,Value vs Reactive Work,"Time is spent on emails instead of meaningful work",Negative,-0.72
+Levels & Quality of Output,Value vs Reactive Work,"Reactive tasks dominate daily workflow",Negative,-0.7
+Levels & Quality of Output,Value vs Reactive Work,"Busy work creates illusion of productivity",Negative,-0.68
+Levels & Quality of Output,Value vs Reactive Work,"Meaningful work requires isolation and focus",Positive,0.63
+Levels & Quality of Output,Value vs Reactive Work,"Meetings reduce time for high-value tasks",Negative,-0.66
+Control & Autonomy,Sustainability & Consistency,"Lack of control over schedule reduces productivity",Negative,-0.67
+Control & Autonomy,Sustainability & Consistency,"External interruptions override planned work",Negative,-0.69
+Control & Autonomy,Sustainability & Consistency,"Inconsistent work patterns reduce output stability",Negative,-0.65
+Control & Autonomy,Sustainability & Consistency,"Having control improves focus and satisfaction",Positive,0.61
+Control & Autonomy,Sustainability & Consistency,"Autonomy enables better prioritization",Positive,0.58
+Willingness to Shift,Environment Change,"Quiet, natural environments are perceived as ideal for focus",Positive,0.64
+Willingness to Shift,Environment Change,"People are willing to change environment for better productivity",Positive,0.61
+Willingness to Shift,Environment Change,"Nature improves clarity and reduces stress",Positive,0.66
+Willingness to Shift,Environment Change,"Non-urban spaces are increasingly appealing",Positive,0.59
+Willingness to Shift,Environment Change,"Calm environments improve perceived control over work",Positive,0.62
+Willingness to Shift,Temporary Relocation,"People are open to relocating temporarily for deep work",Positive,0.65
+Willingness to Shift,Temporary Relocation,"Short-term relocation is seen as beneficial for major projects",Positive,0.63
+Willingness to Shift,Temporary Relocation,"Productivity retreats are becoming attractive",Positive,0.6
+Willingness to Shift,Temporary Relocation,"There is willingness to travel for focused work periods",Positive,0.62
+Willingness to Shift,Temporary Relocation,"Relocation is considered for high-value output work",Positive,0.64
+Environment & Output,Workspace Organization,"Even small clutter on the desk creates resistance to starting work",Negative,-0.56
+Environment & Output,Workspace Organization,"A visually clean setup reduces hesitation before beginning tasks",Positive,0.6
+Environment & Output,Workspace Organization,"Disorganized workspaces make it harder to prioritize tasks",Negative,-0.59
+Environment & Output,Workspace Organization,"Minimal setups help maintain attention for longer periods",Positive,0.63
+Environment & Output,Workspace Organization,"Visual mess creates subtle but constant mental fatigue",Negative,-0.57
+Environment & Output,Home Environment,"Home environments blur boundaries between work and rest",Negative,-0.5
+Environment & Output,Home Environment,"Working from the same place daily reduces novelty and motivation",Negative,-0.46
+Environment & Output,Home Environment,"Changing physical context improves mental engagement",Positive,0.44
+Environment & Output,Home Environment,"Dedicated work zones improve seriousness toward tasks",Positive,0.49
+Environment & Output,Home Environment,"Comfort-heavy environments reduce productivity drive",Negative,-0.45
+Environment & Output,Lighting & Air,"Exposure to daylight improves alertness throughout the day",Positive,0.66
+Environment & Output,Lighting & Air,"Poor air circulation creates sluggish thinking",Negative,-0.55
+Environment & Output,Lighting & Air,"Natural airflow reduces fatigue during long sessions",Positive,0.62
+Environment & Output,Lighting & Air,"Artificial indoor environments feel mentally suffocating",Negative,-0.53
+Environment & Output,Lighting & Air,"Balanced lighting improves visual comfort and focus",Positive,0.61
+Productivity & Focus,Sustained Deep Work,"Deep work requires isolation from both people and digital noise",Positive,0.65
+Productivity & Focus,Sustained Deep Work,"Open environments prevent entering flow state",Negative,-0.73
+Productivity & Focus,Sustained Deep Work,"Focused environments allow faster completion of complex tasks",Positive,0.67
+Productivity & Focus,Sustained Deep Work,"Lack of control over interruptions makes deep work inconsistent",Negative,-0.7
+Productivity & Focus,Sustained Deep Work,"Sustained attention improves when environmental friction is removed",Positive,0.63
+Productivity & Focus,Disruptions,"Unexpected conversations disrupt cognitive momentum",Negative,-0.77
+Productivity & Focus,Disruptions,"Noise variability is more disruptive than constant noise",Negative,-0.71
+Productivity & Focus,Disruptions,"Repeated interruptions create irritation and loss of flow",Negative,-0.75
+Productivity & Focus,Disruptions,"Even brief disruptions extend task completion time significantly",Negative,-0.69
+Productivity & Focus,Disruptions,"Controlled environments reduce frequency of interruptions",Positive,0.58
+Productivity & Focus,Digital Distraction,"Checking devices becomes automatic and difficult to control",Negative,-0.72
+Productivity & Focus,Digital Distraction,"Digital platforms are designed to maximize engagement and distraction",Negative,-0.74
+Productivity & Focus,Digital Distraction,"Removing access to devices improves concentration levels",Positive,0.6
+Productivity & Focus,Digital Distraction,"Constant connectivity reduces ability to focus deeply",Negative,-0.7
+Productivity & Focus,Digital Distraction,"Digital minimalism improves cognitive control",Positive,0.57
+Productivity & Focus,Consistency Across Day,"Energy drops sharply after extended periods of fragmented work",Negative,-0.66
+Productivity & Focus,Consistency Across Day,"Inconsistent focus leads to uneven output quality",Negative,-0.64
+Productivity & Focus,Consistency Across Day,"Structured schedules help maintain productivity across the day",Positive,0.54
+Productivity & Focus,Consistency Across Day,"Interruptions accelerate mental fatigue over time",Negative,-0.68
+Productivity & Focus,Consistency Across Day,"Consistency improves when environment remains stable",Positive,0.56
+Emotional Friction,Cognitive Fatigue,"Mental exhaustion builds even without noticeable workload",Negative,-0.71
+Emotional Friction,Cognitive Fatigue,"Brain feels overloaded despite completing small tasks",Negative,-0.69
+Emotional Friction,Cognitive Fatigue,"Cognitive fatigue reduces motivation to engage in meaningful work",Negative,-0.72
+Emotional Friction,Cognitive Fatigue,"Mental clarity improves in low-stimulation environments",Positive,0.61
+Emotional Friction,Cognitive Fatigue,"Sustained focus reduces perceived mental exhaustion",Positive,0.59
+Emotional Friction,Context Switching,"Switching contexts frequently creates mental disorientation",Negative,-0.68
+Emotional Friction,Context Switching,"Handling multiple streams of work reduces clarity",Negative,-0.7
+Emotional Friction,Context Switching,"Fewer parallel tasks improve cognitive stability",Positive,0.58
+Emotional Friction,Context Switching,"Context switching reduces ability to complete tasks efficiently",Negative,-0.69
+Emotional Friction,Context Switching,"Focused workflows reduce mental strain",Positive,0.6
+Emotional Friction,Effort Breakdown,"Tasks feel harder to start than to complete",Negative,-0.66
+Emotional Friction,Effort Breakdown,"Mental resistance increases with cognitive overload",Negative,-0.68
+Emotional Friction,Effort Breakdown,"Simplified environments reduce initiation resistance",Positive,0.57
+Emotional Friction,Effort Breakdown,"Overwhelm reduces ability to engage with complex work",Negative,-0.7
+Emotional Friction,Effort Breakdown,"Clear structure improves task initiation",Positive,0.55
+Levels & Quality of Output,Depth & Quality,"High-quality work requires uninterrupted cognitive effort",Positive,0.65
+Levels & Quality of Output,Depth & Quality,"Fragmented attention leads to shallow outputs",Negative,-0.69
+Levels & Quality of Output,Depth & Quality,"Better environments improve depth of thinking",Positive,0.63
+Levels & Quality of Output,Depth & Quality,"Rushed work reduces clarity and precision",Negative,-0.7
+Levels & Quality of Output,Depth & Quality,"Deep focus significantly improves output quality",Positive,0.66
+Levels & Quality of Output,Value vs Reactive Work,"Reactive work reduces time available for strategic tasks",Negative,-0.71
+Levels & Quality of Output,Value vs Reactive Work,"Constant communication interrupts meaningful work",Negative,-0.69
+Levels & Quality of Output,Value vs Reactive Work,"Focused environments enable high-value output",Positive,0.64
+Levels & Quality of Output,Value vs Reactive Work,"Emails and meetings dominate productive hours",Negative,-0.7
+Levels & Quality of Output,Value vs Reactive Work,"Reducing reactive work improves output significance",Positive,0.62
+Control & Autonomy,Sustainability and Consistency,"Lack of autonomy reduces motivation to focus deeply",Negative,-0.66
+Control & Autonomy,Sustainability and Consistency,"Control over environment improves consistency",Positive,0.6
+Control & Autonomy,Sustainability and Consistency,"External demands disrupt planned workflows",Negative,-0.68
+Control & Autonomy,Sustainability and Consistency,"Autonomy supports long-term productivity sustainability",Positive,0.59
+Control & Autonomy,Sustainability and Consistency,"Unpredictable demands reduce output stability",Negative,-0.67
+Willingness to Shift,Environment Change,"People associate nature with improved mental clarity",Positive,0.63
+Willingness to Shift,Environment Change,"Quiet environments are preferred for focused work",Positive,0.61
+Willingness to Shift,Environment Change,"Urban environments are seen as overstimulating",Negative,-0.58
+Willingness to Shift,Environment Change,"Alternative workspaces are increasingly attractive",Positive,0.6
+Willingness to Shift,Environment Change,"Environment plays a key role in perceived productivity",Positive,0.62
+Willingness to Shift,Temporary Relocation,"Temporary relocation is seen as a way to reset focus",Positive,0.64
+Willingness to Shift,Temporary Relocation,"Short-term moves help complete high-priority work",Positive,0.63
+Willingness to Shift,Temporary Relocation,"People are open to structured work retreats",Positive,0.61
+Willingness to Shift,Temporary Relocation,"Relocation is considered when focus becomes difficult in current setup",Positive,0.62
+Willingness to Shift,Temporary Relocation,"Traveling for focused work is increasingly acceptable",Positive,0.6
